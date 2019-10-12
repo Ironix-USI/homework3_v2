@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="button_main">Add item</string>
+    <string name="items_header">List of items</string>
+    <string name="cheese_button">&#129472;</string>
+    <string name="bread_button">&#127838;</string>
+    <string name="egg_button">&#129370;</string>
+    <string name="bacon_button">&#129363;</string>
+    <string name="green_salad_button">&#129367;</string>
+    <string name="chicken_button">&#127831;</string>
+    <string name="milk_button">&#129371;</string>
+    <string name="coffee_button">&#9749;</string>
+    <string name="tea_button">&#127861;</string>
+    <string name="rice_button">&#127834;</string>
+    <string name="potato_button">&#129364;</string>
+    <string name="carrot_button">&#129365;</string>
+    <string name="clear_button">Reset list</string>
+    <string name="shopping_list_header">Shopping List</string>
+</resources>
